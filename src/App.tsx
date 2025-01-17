@@ -6,6 +6,7 @@ function App() {
       <p>Start prompting (or editing) to see magic happen :)</p>
     </div>
     <h1>hi chage</h1>
+    <h2>second</h2>
   );
 }
 
